@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569262115580",
+    "project_id": "laboratoriski203082",
+    "storage_bucket": "laboratoriski203082.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569262115580:android:5217b7fbfc3bd6905a6579",
+        "android_client_info": {
+          "package_name": "com.example.laboratoriska3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYMhFkGRAVlm7FlEL7XNA8SFes-rvuz50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
